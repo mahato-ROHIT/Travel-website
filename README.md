@@ -299,3 +299,31 @@ A: No. This starter uses local JSON; you can integrate APIs later.
 ---
 
 > Tip: After you create the repo, copy this README.md content, add screenshots, and push. Need a **LICENSE** or **ISSUE\_TEMPLATE.md**? Ping me and I’ll generate them too.
+
+
+A
+C
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
