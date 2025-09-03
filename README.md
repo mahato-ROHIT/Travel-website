@@ -51,3 +51,21 @@ travelmate/
 ├── README.md
 └── LICENSE
 ```
+
+2. 💁Features Mention
+
+Add some advanced or eye-catching features, even if partially implemented:
+
+🌍 Search & Explore: Search destinations by name/country.
+
+☀️ Weather Forecast: Get live weather for destinations.
+
+🏨 Accommodation Finder: Suggest nearby hotels or Airbnb.
+
+🗺️ Interactive Map: Show locations using Google Maps / Leaflet.
+
+🎒 Trip Planner: Save favorite destinations & create itineraries.
+
+💬 Chat/Community: Ask travel questions, share tips.
+
+💸 Budget Estimator: Estimate trip costs.
