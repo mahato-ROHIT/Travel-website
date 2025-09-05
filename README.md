@@ -130,13 +130,3 @@ Add some advanced or eye-catching features, even if partially implemented:
 - 🔐 **Auth** — email/password or Google OAuth (optional)
 
 ---
-
-## 📸 Screenshots
-<p align="center">
-  <img src="./docs/01-home.png" width="32%" />
-  <img src="./docs/02-search.png" width="32%" />
-  <img src="./docs/03-itinerary.png" width="32%" />
-</p>
-
-> Put PNG/JPG files in `docs/` and update the paths above.
-> ---
