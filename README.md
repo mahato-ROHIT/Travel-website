@@ -128,5 +128,3 @@ Add some advanced or eye-catching features, even if partially implemented:
 - 💸 **Budget Estimator** — plan costs with live currency rates  
 - 💬 **Notes & Tips** — attach notes to each trip item  
 - 🔐 **Auth** — email/password or Google OAuth (optional)
-
----
